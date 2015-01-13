@@ -1,12 +1,26 @@
 {
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
-		"AngularJS",
 		"BracketHighlighter",
+		"Browser Refresh",
+		"CodeFormatter",
+		"EncodingHelper",
+		"GitGutter",
+		"Handlebars",
+		"JavaScriptNext - ES6 Syntax",
 		"JsFormat",
-		"LESS",
-		"Play 2.0",
+		"JSHint Gutter",
+		"Package Control",
+		"SideBarEnhancements",
 		"SublimeCodeIntel",
-		"sublimelint"
+		"Sublimerge Pro"
 	]
 }

@@ -2,10 +2,12 @@
 	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"color_scheme": "Packages/User/Tomorrow_Night_Eighties.tmTheme",
-	"font_size": 12,
+	"font_size": 11,
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"SideBarEnhancements",
+		"Sublimerge Pro",
 		"Vintage"
 	],
 	"scroll_past_end": true,
